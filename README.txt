@@ -1,0 +1,1 @@
+An Arduino test of splitting up a text by words in 3 lines for a certain length each.
